@@ -1,0 +1,73 @@
+<html>
+  <head>
+      
+      <link rel="icon" 
+      type="img/favicon.ico" 
+      href="img/favicon.ico">  
+    <meta charset="utf-8">
+    <title>Creeper Index</title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link href='http://fonts.googleapis.com/css?family=Changa+One|Open+Sans:400italic,700italic,400,700,800' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <header>
+      <a href="index.html" id="logo">
+        <h1>Oh LookA Creeper</h1>
+        <h2>Creeper Index</h2>
+      </a>
+
+      <nav>
+        <ul>
+          <li><a href="index.html" class="selected">Images</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div id="wrapper">
+      <section>
+        <ul id="gallery">
+          <li>
+            <a href="img/creep1.jpg">
+              <img src="img/creep1.jpg"1 alt="">
+		<p>Strumming your chords</p>
+    	    </a>
+    	  </li>	      
+        <li>
+            <a href="img/creep2.jpg">
+              <img src="img/creep2.jpg"1 alt="">
+                <p>For my next trick i'll steal yer soul</p>
+            </a>
+          </li>       
+           <li>
+            <a href="img/creep3.jpg">
+              <img src="img/creep3.jpg"1 alt="">
+                <p>You wet yet???</p>
+            </a>
+          </li>
+	    <li>
+            <a href="img/creep4.jpg">
+              <img src="img/creep4.jpg"1 alt="">
+                <p>I wanna suck yer straw</p>
+            </a>
+          </li>
+        <li>
+            <a href="img/creepadd.png">
+              <img src="img/creepadd.png"1 alt="">
+                <p>Peek-A-Boo</p>
+            </a>
+          </li>
+
+	</ul>
+      </section>
+      <footer>
+          <a href="https://www.facebook.com/hauntedbyshadow"><img src="img/facebook-wrap.png" alt="Facebook Logo" class="social-icon"></a>
+        <p>&copy; 2014 douglaslannin.com.</p>
+      </footer>
+    </div>
+  </body>
+</html>
+
